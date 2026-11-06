@@ -1,0 +1,11 @@
+4D Kitchen Studio
+Copyright © 2026 Eng. Muhannad AlHaj Issa. All rights reserved.
+Licence ID: K4D-MAHI-2026-1106
+
+This software and its 3D model, code, textures and sound design are proprietary.
+No licence is granted to copy, modify, merge, publish, distribute, sublicense, sell,
+or host this software or any part of it on any domain other than those authorised by
+the copyright holder (hajissa2008.github.io, muhannadalhajissa.site).
+
+Viewing the published page is permitted. All other use requires prior written permission.
+Contact: contact@muhannadalhajissa.site
